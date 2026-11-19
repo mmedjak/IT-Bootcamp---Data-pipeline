@@ -8,4 +8,4 @@ proizvodi: CSV fajl iz sistema prodavnice
 timovi: CSV fajl od lige
 utakmice: parquet fajl sa platforme lige.
 
-Trenutni presek rada: zadatak 6.
+Trenutni presek rada: zadatak 10.
