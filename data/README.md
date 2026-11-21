@@ -7,3 +7,4 @@ porudžbine: API, JSON, 38 strana
 proizvodi: CSV fajl iz sistema prodavnice
 timovi: CSV fajl od lige
 utakmice: parquet fajl sa platforme lige.
+
